@@ -65,3 +65,10 @@ p{
 .exp-h{
     padding-left: 50px;
 }
+.footerTag{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 100px;
+    padding-top: 50px;
+}
