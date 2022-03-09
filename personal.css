@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+Section{
+    height: 500px;
+
+}
+.headerSection{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+.imgfor{
+    width:400px;
+}
+.jackVai{
+    font-size: 50px;
+    color: #EC4D81;
+}
+h2{
+    font-size: 40px;
+    
+    
+}
+p{
+    color: dimgray;
+}
+#buttonHere{
+    text-decoration: none;
+   background-image: linear-gradient(50deg, #EC4D81 ,#F07095);
+   padding: 10px 20px;
+   border: 1px solid;
+   border-radius: 5px;
+   color: white;
+}
+.main-header{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+.peter-dream{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    margin-top: 150px;
+}
+.img-work{
+    width:30%;
+    float: left;
+    margin-left: 2%;
+    box-shadow: 10px 10px 30px gray;
+
+}
+.img-work img{
+    width: 100%;
+}
+.MyworkdHead{
+    margin: auto;
+    
+}
+.MidHead{
+    padding: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+.myWork{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.lastbutton{
+    text-decoration: none;
+    background-image: linear-gradient(50deg, #EC4D81 ,#F07095);
+    padding: 20px 30px;
+    border: 1px solid;
+    border-radius: 5px;
+    color: white;
+  
+   
+}
+.clintWork{
+    text-align: center;
+   
+}
+.lastFooter{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 20px 30px;
+}
+#lastP{
+    padding: 10px;
+}
+/*Header for css*/
+.mainLi a{
+    text-decoration: none;
+    color: black;
+    
+   
+}
+.mainLi{
+    list-style: none;
+    float: right;
+    background-color: #EC4D81;
+    margin: 10px 15px;
+
+}
+.musice{
+    padding-left: 2%;
+}
+table{
+ border-collapse: collapse;
+}
+td,th,caption{
+    border: 1px solid black;
+    padding: 0px 40px;
+}
